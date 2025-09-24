@@ -1,0 +1,1 @@
+cmd='G:/Apps/cmake/bin/cmake.exe;--no-warn-unused-cli;-DCMAKE_MAKE_PROGRAM:FILEPATH=G:/Apps/ninja/ninja.exe;-DPIOASM_FLAT_INSTALL=1;-DCMAKE_INSTALL_PREFIX=G:/etran/dev/pico/mouse-fw/firmware/build/pioasm-install;-DCMAKE_RULE_MESSAGES=OFF;-DCMAKE_INSTALL_MESSAGE=NEVER;-GNinja;-C<TMP_DIR>/pioasmBuild-cache-$<CONFIG>.cmake;<SOURCE_DIR><SOURCE_SUBDIR>'
